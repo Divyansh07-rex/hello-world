@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+Hey there , I am Divyansh
+This is my first github repository.
